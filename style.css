@@ -1,0 +1,46 @@
+html {
+    background-color: #afafaf;
+}
+
+h1, h2 {
+    color: #dedeff;
+    text-decoration: underline;
+}
+
+p {
+    color: #dedeff;
+}
+
+.myBody {
+    background-color: #5555ff;
+    border-style: solid;
+    border-radius: 5px;
+    border-color: #333333;
+}
+
+.myBody h1, h2, p {
+    color: #dedeff;
+}
+
+.headBar {
+    background-color: #3f3faa;
+    overflow: hidden;
+    border-style: solid;
+    border-color: #333333;
+    border-radius: 5px;
+}
+
+.headBar a {
+    float: left;
+    color: #dedeff;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 13px ;
+}
+
+.headBar a:hover {
+    background-color: #1f1f88;
+    color: #dedeff;
+    text-decoration: underline;
+}
